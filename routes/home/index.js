@@ -6,7 +6,9 @@ export default class Home extends Component {
 		return (
 			<div class={style.home}>
 				<h1>Home</h1>
-				<p>This is the Home component.</p>
+				<p>
+				This is the demo of <a href="http://www.prakashn.com" target="_blank"> me</a> working on PWA for my personal webpage.
+				</p>
 			</div>
 		);
 	}
